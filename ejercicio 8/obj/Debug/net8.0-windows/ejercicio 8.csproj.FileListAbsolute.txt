@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio_8.Form1.resources
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\bin\Debug\net8.0-windows\ejercicio 8.exe
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\bin\Debug\net8.0-windows\ejercicio 8.deps.json
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\bin\Debug\net8.0-windows\ejercicio 8.runtimeconfig.json
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\bin\Debug\net8.0-windows\ejercicio 8.dll
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\bin\Debug\net8.0-windows\ejercicio 8.pdb
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.dll
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\refint\ejercicio 8.dll
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.pdb
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ejercicio 8.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ejercicio 8\ejercicio 8\obj\Debug\net8.0-windows\ref\ejercicio 8.dll
