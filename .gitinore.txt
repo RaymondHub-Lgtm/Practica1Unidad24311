@@ -25,8 +25,8 @@
 */Performance/*TestResults.txt
 **/bin
 **/obj
-**/*.log.1
-**/*.log.*
+*/.log.1
+*/.log.*
 *.log
 *.db
 .vs/
